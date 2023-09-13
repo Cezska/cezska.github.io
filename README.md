@@ -14,7 +14,7 @@ As a big believer of the growth mindset and as a data enthusiast, I'm self learn
 <br>
 <img src="https://github.com/Cezska/Telco-Customer-Churn/blob/main/output_90_1.png?raw=true" width="300" height="400"/>
 - Predicted if a customer would churn
-- Exploring the factors affecting churn
+- Explored the factors affecting churn
 - Provided business recommendations based on the data
 
 
