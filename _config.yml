@@ -7,4 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <div class="social" style="cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/cezska/', '_blank').focus();">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cezska/" alt="LinkedIn">
   </div>
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
