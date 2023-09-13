@@ -1,6 +1,5 @@
 ## About 
-<br>
-With background in business, I have a history of driving business operational improvements through data analytics.
+With a background in business, I have a history of driving business operational improvements through data analytics.
 <br>
 Skilled in SQL and dashboarding.
 <br>
