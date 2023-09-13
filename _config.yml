@@ -1,2 +1,10 @@
 title: Cezska
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Based in Kuala Lumpur, Malaysia
+  <br><br>
+  Analytical generalist. History of working in startups.
+  <br><br>
+  <div class="social" style="cursor:pointer; background-color:#0077B5;" onclick="window.open('https://www.linkedin.com/in/cezska/', '_blank').focus();">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cezska/" alt="LinkedIn">
+  </div>
 theme: jekyll-theme-minimal
