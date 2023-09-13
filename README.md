@@ -1,9 +1,7 @@
 ## About 
-With a background in business, I have a history of driving business operational improvements through data analytics.
-<br>
-Skilled in SQL and dashboarding.
-<br>
-As a big believer of the growth mindset and as a data enthusiast, I'm self learning data science skills by working on projects.
+- With a background in business, I have a history of driving business operational improvements through data analytics.
+- Skilled in SQL and dashboarding.
+- As a big believer of the growth mindset and as a data enthusiast, I'm self learning data science skills by working on projects.
 
 ---
 
