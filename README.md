@@ -14,7 +14,12 @@
 - Explored the factors affecting churn
 - Provided business recommendations based on the data
 
-
+[2. Scraping property listings and output data in dashboard](https://cezska.github.io/PropertyGuru-Scraper/)
+<br>
+![Web scraper and dashboard](https://github.com/Cezska/cezska.github.io/assets/102790793/6a87abcf-25de-4cfe-9a3b-e36bdd23e16c)
+- Built a web scraper to mine data from property listings
+- Built an interactive dashboard to analyze mined data
 
 ---
+
 
